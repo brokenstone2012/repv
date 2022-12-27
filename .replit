@@ -1,0 +1,4 @@
+run = "chmod +x ./web.sh && ./web.sh"
+
+[nix]
+channel = "stable-22_05"
